@@ -1,7 +1,7 @@
 {
   "name": "mongoose-visual",
   "description": "Generate a styled HTML document representing your loaded Mongoose.js Models",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Edward Hotchkiss",
   "maintainers": [
     {
